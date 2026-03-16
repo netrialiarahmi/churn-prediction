@@ -1,0 +1,38 @@
+# Data files (extracted from zip, too large for git)
+data/*.csv
+
+# Model artifacts
+models/
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.jupyter/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Docker
+.dockerignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optuna
+optuna.db
+
+# CatBoost training info
+catboost_info/
