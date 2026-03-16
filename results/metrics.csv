@@ -1,0 +1,6 @@
+,value
+baseline_lr_auc,0.9099024507074642
+stack_oof_auc,0.916006831930626
+stack_oof_accuracy,0.861148042558491
+stack_oof_f1,0.6731271319733605
+optimal_threshold,0.5650000000000001
